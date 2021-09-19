@@ -36,6 +36,7 @@ Skills:
 - ✔BOOTSTRAP 
 - ✔CONTEXT API 
 - ✔GIT 
+- ✔WEBPACK
 
 I am a Front End web application developer . I like to build my project with React.js but I can do it with vanilla js also . I am using React because it  saves lot of time. 
 
