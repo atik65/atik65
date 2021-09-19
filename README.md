@@ -28,7 +28,14 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Atik Hasan.
 #### I am a React.js Developer.
-Skills: JAVASCRIPT / REACT.JS / HTML / CSS / BOOTSTRAP / CONTEXT API / GIT 
+Skills:
+- ✔JAVASCRIPT 
+- REACT.JS 
+-  HTML 
+-  CSS 
+-  BOOTSTRAP 
+-  CONTEXT API 
+-  GIT 
 
 I am a Front End web application developer . I like to build my project with React.js but I can do it with vanilla js also . I am using React because it  saves lot of time. 
 
