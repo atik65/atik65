@@ -47,7 +47,7 @@ I am a Front End web application developer . I like to build my project with Rea
 - 👯 I’m looking to collaborate on Front End development 
 - 💬 Ask me about React.js and vanilla Javascript 
 - 📫 How to reach me: facebook:https://www.facebook.com/atik.selfibazz/                  LinkedIn:https://www.linkedin.com/in/atik-hasan-a604a3216/ 
-- 😄 Pronouns: Picci Developer  
+- 😄 Pronouns: CodeMaker  
 - ⚡ Fun fact: Problem solving  
 
 
