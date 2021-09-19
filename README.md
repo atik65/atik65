@@ -50,7 +50,7 @@ I am a Front End web application developer . I like to build my project with Rea
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atik65)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=atik65&show_icons=true&count_private=true)   -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atik65&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atik65&show_icons=true&theme=radical)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=atik65)  
 
