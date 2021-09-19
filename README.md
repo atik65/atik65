@@ -53,12 +53,6 @@ I am a Front End web application developer . I like to build my project with Rea
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=atik65&show_icons=true&count_private=true)   -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atik65&show_icons=true&theme=radical)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atik65)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=atik65)  
-
 
 
 
@@ -66,3 +60,6 @@ I am a Front End web application developer . I like to build my project with Rea
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=atik65)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=atik65)](https://github.com/ryo-ma/github-profile-trophy)
 ![Profile views](https://gpvc.arturio.dev/atik65)  
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=atik65)  
