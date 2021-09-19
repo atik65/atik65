@@ -31,7 +31,7 @@ Skills: JAVASCRIPT / REACT.JS / HTML / CSS / BOOTSTRAP / CONTEXT API / GIT
 
 - 🔭 I’m currently working on https://github.com/atik65 
 - 🌱 I’m currently learning Node.js 
-- 👯 I’m looking to collaborate on Frontend development 
+- 👯 I’m looking to collaborate on Front End development 
 - 💬 Ask me about React.js and vanilla Javascript 
 - 📫 How to reach me: facebook:https://www.facebook.com/atik.selfibazz/                  LinkedIn:https://www.linkedin.com/in/atik-hasan-a604a3216/ 
 - 😄 Pronouns: Picci Developer  
