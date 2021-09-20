@@ -75,7 +75,7 @@ I am a Front End web application developer . I like to build my project with Rea
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=atik65)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=atik65)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=atik65)](https://github.com/ryo-ma/github-profile-trophy) -->
 ![Profile views](https://gpvc.arturio.dev/atik65)  
 
 
