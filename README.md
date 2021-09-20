@@ -43,7 +43,7 @@ Here are some ideas to get you started:
  <img src='https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white' alt='fontAwesome' height='30'>
  <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' alt='vscode' height='30'>
  <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt='figma' height='30'>
- <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' alt='vscode' height='30'>
+ <img src='https://wptavern.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-11-at-6.51.54-PM.png' alt='vscode' height='30'>
  
 - ✔JAVASCRIPT 
 - ✔REACT.JS 
