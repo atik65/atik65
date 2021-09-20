@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 
 ## Hi there 👋, I'm Atik Hasan.
 #### I am a React.js Developer.
-Skills:
 
- <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='35'>
+#### Things I code with
+
+ <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='html' height='35'>
 - ✔JAVASCRIPT 
 - ✔REACT.JS 
 - ✔HTML 
