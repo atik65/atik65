@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 ## I am a React.js Developer.
 
 
-I am a Front End web application developer . I like to build my project with React.js but I can do it with vanilla js also . I am using React because it  saves lot of time. 
+I am a highly skilled frontend web developer with expertise in JavaScript, React.js, Next.js, Redux, Zustand, Jotai, Tailwind CSS, Material-UI, and more. I am also proficient in backend technologies such as Node.js, Express.js, Firebase, MongoDB, and MySQL. With a strong foundation in HTML, CSS, and Bootstrap, I excel at building single-page applications and delivering seamless user experiences. Additionally, my knowledge extends to languages like C++ and Java, along with a solid understanding of object-oriented programming and data structures. Comfortable working with Ubuntu and Nginx, I am well-versed in version control using Git.
+
 
 
 
