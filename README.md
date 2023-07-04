@@ -72,7 +72,7 @@ I am a highly skilled frontend web developer with expertise in JavaScript, React
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=atik65&show_icons=true&count_private=true)   -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atik65&show_icons=true&theme=radical)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atik65&theme=dracula)](https://github.com/atik65/github-readme-activity-graph)
+
 
 
 
@@ -83,3 +83,4 @@ I am a highly skilled frontend web developer with expertise in JavaScript, React
 
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atik65&theme=github-compact)](https://github.com/atik65/github-readme-activity-graph)
