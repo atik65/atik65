@@ -83,4 +83,4 @@ I am a highly skilled frontend web developer with expertise in JavaScript, React
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atik65&theme=github-compact)](https://github.com/atik65/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atik65&theme=react-dark)](https://github.com/atik65/github-readme-activity-graph)
