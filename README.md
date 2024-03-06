@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋
 
 <!--
-**dev.atik.hasan/dev.atik.hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**atik65/atik65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -50,37 +50,37 @@ I am a highly skilled frontend web developer with expertise in JavaScript, React
 - ✔WEBPACK -->
 
 
-- 🔭 I’m currently working on https://github.com/dev.atik.hasan 
+- 🔭 I’m currently working on https://github.com/atik65 
 - 🌱 I’m currently learning Node.js 
 - 👯 I’m looking to collaborate on Front End development 
 - 💬 Ask me about React.js and vanilla Javascript 
-- 📫 How to reach me: facebook:https://www.facebook.com/atik.selfibazz/                  LinkedIn:https://www.linkedin.com/in/atik-hasan-a604a3216/ 
+- 📫 How to reach me: facebook:https://www.facebook.com/dev.atik.hasan/                  LinkedIn:https://www.linkedin.com/in/atik-hasan-a604a3216/ 
 - 😄 Pronouns: CodeMaker  
 - ⚡ Fun fact: Problem solving  
 
 ### Connect with me 
 
-[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='30'>](https://github.com/dev.atik.hasan)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/atik-hasan-a604a3216/)  [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='30'>](https://www.facebook.com/atik.selfibazz)  [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>](https://www.instagram.com/atik_hasan9/)  [<img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen' height='30'>](https://codepen.io/dev.atik.hasan)  [<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/14393120)  
+[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='30'>](https://github.com/atik65)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/atik-hasan-a604a3216/)  [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='30'>](https://www.facebook.com/dev.atik.hasan)  [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>](https://www.instagram.com/atik_hasan9/)  [<img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen' height='30'>](https://codepen.io/atik65)  [<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/14393120)  
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/dev.atik.hasan)  
+![GitHub metrics](https://metrics.lecoq.io/atik65)  
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev.atik.hasan)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev.atik.hasan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atik65)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atik65&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev.atik.hasan&show_icons=true&count_private=true)   -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev.atik.hasan&show_icons=true&theme=radical)
-
-
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=atik65&show_icons=true&count_private=true)   -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atik65&show_icons=true&theme=radical)
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dev.atik.hasan)  
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dev.atik.hasan)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=atik65)  
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=atik65)](https://github.com/ryo-ma/github-profile-trophy) -->
  
 
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev.atik.hasan&theme=react-dark)](https://github.com/dev.atik.hasan/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atik65&theme=react-dark)](https://github.com/atik65/github-readme-activity-graph)
