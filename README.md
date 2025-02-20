@@ -76,7 +76,7 @@ I am a highly skilled frontend web developer with expertise in JavaScript, React
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=atik65)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=atik65&theme=dark)](https://git.io/streak-stats)
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=atik65)](https://github.com/ryo-ma/github-profile-trophy) -->
  
 
