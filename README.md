@@ -1,86 +1,134 @@
-<!-- ### Hi there 👋
+<div align="center">
 
-<!--
-**atik65/atik65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Md.%20Atikul%20Islam%20Atik&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%E2%80%94%20Next.js%20%C2%B7%20React%20%C2%B7%20TypeScript&descAlignY=58&descSize=18&descColor=a78bfa" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
 
- 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atik65/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atik65)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dev.atik.hasan)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atik.hasan.dev@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14393120)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+> *Creative and detail-oriented Frontend Software Developer specializing in modern web technologies — driven by innovation, quality, and delivering products that make a real impact.*
+
+- 🏢 **2+ years** of professional experience at **Eutropia IT Solution**, Dhaka
+- 🎓 **BSc in CSE** — University of Asia Pacific · **CGPA: 3.94**
+- 🏆 **Runners-Up** @ INNOVATEX 2025 · **4th Place** @ MIST Inventious 4.1 Hackathon
+- 🌍 Built production systems serving **international markets** (Australia, France, Bangladesh)
+- 🛠️ Specialized in **scalable architectures**, **API-driven platforms**, and **enterprise-grade UX**
+- 📍 Based in **Dhaka, Bangladesh**
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 MNMRidez — Car Rental Platform
+Premium chauffeur & car rental booking system serving customers across **Australia**. Multi-location bookings, dynamic surcharge calculations, B2B + B2C support, and multiple payment gateways. Currently in **active nationwide service**.
+
+`Next.js` `TypeScript` `REST APIs` `Payment Integration`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ Bangladesh Embassy France — Portal
+Full-featured embassy web platform for Bangladesh in France. Includes a **custom CMS**, online appointment booking to reduce embassy workload, client portal, admin portal, and a service desk management system for embassy staff.
+
+`Next.js` `TypeScript` `CMS` `Role-based Access`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 ERP System — Education Consultancy
+Robust multi-tenant ERP Software. Handles complex workflows, role-based access control, operational dashboards, payroll modules, and high-volume data management requiring careful architectural decisions.
+
+`React` `Next.js` `TypeScript` `Zustand` `REST APIs`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ MonirHomeTextile — eCommerce
+High-performance eCommerce platform for a home textile brand. Optimized product browsing, secure checkout, and a fully responsive design with fast load times and **SEO excellence** across all devices.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Performance Optimization`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+#### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+
+#### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+#### Testing & DevOps
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
 
 
- 
- 
 
- 
-<!--  custom editing starts from here  -->
+</div>
 
+<div align="center">
 
-![I am a React.js Developer.](https://i.ibb.co/MGgGgQ6/atik.jpg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=atik65&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-# Hi there 👋, I'm Atik Hasan.
-## I am a Frontend Developer.
+</div>
 
+<div align="center">
 
-I am a highly skilled frontend web developer with expertise in JavaScript, React.js, Next.js, Redux, Zustand, Jotai, Tailwind CSS, Material-UI, and more. I am also proficient in backend technologies such as Node.js, Express.js, Firebase, MongoDB, and MySQL. With a strong foundation in HTML, CSS, and Bootstrap, I excel at building single-page applications and delivering seamless user experiences. Additionally, my knowledge extends to languages like C++ and Java, along with a solid understanding of object-oriented programming and data structures. Comfortable working with Ubuntu and Nginx, I am well-versed in version control using Git.
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atik65&theme=tokyo-night&hide_border=true)](https://github.com/atik65)
 
+</div>
 
+---
 
+<div align="center">
 
-#### Things I code with
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
- <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='javascript' height='30'> <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='react' height='30'>   <img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white' alt='figma' height='30'> <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt='javascript' height='30'> <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'    alt='javascript' height='30'> <img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white' alt='javascript' height='30'>  <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' alt='javascript' height='30'>  <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt='javascript' height='30'>  <img src='https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white' alt='javascript' height='30'> <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt='javascript' height='30'>  <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' alt='javascript' height='30'>  <img src='https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white' alt='javascript' height='30'> <img src='https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white' alt='javascript' height='30'> <img src='https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black' alt='javascript' height='30'>  <img src='https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white' alt='javascript' height='30'> <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='bootstrap' height='30'> <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white' alt='router' height='30'>  <img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white' alt='npm' height='30'>  <img src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black' alt='firebase' height='30'> <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white' alt='git' height='30'> <img src='https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white' alt='fontAwesome' height='30'> <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white' alt='vscode' height='30'> <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='html' height='30'> <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='css3' height='30'>
- 
-<!-- - ✔JAVASCRIPT 
-- ✔REACT.JS 
-- ✔HTML 
-- ✔CSS 
-- ✔BOOTSTRAP 
-- ✔CONTEXT API 
-- ✔GIT 
-- ✔WEBPACK -->
-
-
-- 🔭 I’m currently working on https://github.com/atik65 
-- 🌱 I’m currently learning Node.js 
-- 👯 I’m looking to collaborate on Front End development 
-- 💬 Ask me about React.js and vanilla Javascript 
-- 📫 How to reach me: facebook:https://www.facebook.com/dev.atik.hasan/                  LinkedIn:https://www.linkedin.com/in/atik-hasan-a604a3216/ 
-- 😄 Pronouns: CodeMaker  
-- ⚡ Fun fact: Problem solving  
-
-### Connect with me 
-
-[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='30'>](https://github.com/atik65)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/atik-hasan-a604a3216/)  [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook' height='30'>](https://www.facebook.com/dev.atik.hasan)  [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>](https://www.instagram.com/atik_hasan9/)  [<img src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white' alt='codepen' height='30'>](https://codepen.io/atik65)  [<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/14393120)  
-
-
-
-![GitHub metrics](https://metrics.lecoq.io/atik65)  
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atik65)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atik65&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=atik65&show_icons=true&count_private=true)   -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atik65&show_icons=true&theme=radical)
-
-
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=atik65&theme=dark)](https://git.io/streak-stats)
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=atik65)](https://github.com/ryo-ma/github-profile-trophy) -->
- 
-
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atik65&theme=react-dark)](https://github.com/atik65/github-readme-activity-graph)
+</div>
